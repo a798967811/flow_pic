@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-27T17:55:19.468Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="7ntlawACl5iYCnA8ddQU" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-27T18:09:23.318Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="MlLtCirKj6u9GYZqIX4A" version="20.2.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="2737" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -42,7 +42,7 @@
           <mxGeometry x="295" y="47.5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FHX8dY6lNucRGI2XWr2T-133" value="新建学员学习实例" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="FHX8dY6lNucRGI2XWr2T-80">
-          <mxGeometry x="275" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="275" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FHX8dY6lNucRGI2XWr2T-81" value="面授课进行中" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="FHX8dY6lNucRGI2XWr2T-79">
           <mxGeometry x="489" width="452" height="295" as="geometry">
@@ -53,6 +53,9 @@
           <mxGeometry x="941" width="449" height="295" as="geometry">
             <mxRectangle width="449" height="295" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FHX8dY6lNucRGI2XWr2T-230" value="开启签到，&lt;br&gt;未签到的面授对象" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="FHX8dY6lNucRGI2XWr2T-82">
+          <mxGeometry x="-56" y="60" width="110" height="120" as="geometry" />
         </mxCell>
         <mxCell id="FHX8dY6lNucRGI2XWr2T-83" value="学习中" style="shape=tableRow;horizontal=0;startSize=40;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=none;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="FHX8dY6lNucRGI2XWr2T-78">
           <mxGeometry y="335" width="1390" height="300" as="geometry" />
@@ -66,7 +69,7 @@
           <mxGeometry x="9" y="105" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FHX8dY6lNucRGI2XWr2T-163" value="开启签到的面授课，学员签到" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="FHX8dY6lNucRGI2XWr2T-84">
-          <mxGeometry x="275" y="105" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="105" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FHX8dY6lNucRGI2XWr2T-85" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="FHX8dY6lNucRGI2XWr2T-83">
           <mxGeometry x="489" width="452" height="300" as="geometry">
@@ -77,6 +80,9 @@
           <mxGeometry x="941" width="449" height="300" as="geometry">
             <mxRectangle width="449" height="300" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FHX8dY6lNucRGI2XWr2T-231" value="开启签退，&lt;br&gt;未签退的面授对象" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="FHX8dY6lNucRGI2XWr2T-86">
+          <mxGeometry x="299" y="75" width="110" height="120" as="geometry" />
         </mxCell>
         <mxCell id="FHX8dY6lNucRGI2XWr2T-87" value="已学" style="shape=tableRow;horizontal=0;startSize=40;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=none;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="FHX8dY6lNucRGI2XWr2T-78">
           <mxGeometry y="635" width="1390" height="295" as="geometry" />
@@ -92,7 +98,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FHX8dY6lNucRGI2XWr2T-171" value="开启签退的面授课，学员签退" style="rounded=1;whiteSpace=wrap;html=1;arcSize=14;strokeWidth=2;" vertex="1" parent="FHX8dY6lNucRGI2XWr2T-89">
-          <mxGeometry x="166" y="75" width="120" height="60" as="geometry" />
+          <mxGeometry x="391" y="75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FHX8dY6lNucRGI2XWr2T-90" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="FHX8dY6lNucRGI2XWr2T-87">
           <mxGeometry x="941" width="449" height="295" as="geometry">
@@ -100,7 +106,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FHX8dY6lNucRGI2XWr2T-177" value="扫描未开启签退并且已结束的面授课，将所有学习中的的学员改成已完成" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="FHX8dY6lNucRGI2XWr2T-90">
-          <mxGeometry x="66" y="109" width="185" height="70" as="geometry" />
+          <mxGeometry x="132" y="112.5" width="185" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FHX8dY6lNucRGI2XWr2T-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FHX8dY6lNucRGI2XWr2T-78" source="FHX8dY6lNucRGI2XWr2T-115" target="FHX8dY6lNucRGI2XWr2T-117">
           <mxGeometry relative="1" as="geometry" />
@@ -141,17 +147,17 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FHX8dY6lNucRGI2XWr2T-192" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="FHX8dY6lNucRGI2XWr2T-78" source="FHX8dY6lNucRGI2XWr2T-117" target="FHX8dY6lNucRGI2XWr2T-177">
+        <mxCell id="FHX8dY6lNucRGI2XWr2T-203" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="FHX8dY6lNucRGI2XWr2T-78" source="FHX8dY6lNucRGI2XWr2T-117" target="FHX8dY6lNucRGI2XWr2T-177">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="109" y="880" />
-              <mxPoint x="1100" y="880" />
+              <mxPoint x="109" y="900" />
+              <mxPoint x="1166" y="900" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FHX8dY6lNucRGI2XWr2T-198" value="定时任务触发" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FHX8dY6lNucRGI2XWr2T-192">
-          <mxGeometry x="0.4896" y="-3" relative="1" as="geometry">
-            <mxPoint x="-1" as="offset" />
+        <mxCell id="FHX8dY6lNucRGI2XWr2T-204" value="定时任务触发" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FHX8dY6lNucRGI2XWr2T-203">
+          <mxGeometry x="0.2506" y="10" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FHX8dY6lNucRGI2XWr2T-176" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=none;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;" vertex="1" parent="1">
