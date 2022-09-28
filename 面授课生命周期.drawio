@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-28T07:16:40.153Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="vozZq-tvZx8QjSdOsYcR" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-28T07:18:43.692Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="xRQFWu2vcpaRPg7791sH" version="20.2.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="3157" dy="1216" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="2447" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -130,7 +130,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FHX8dY6lNucRGI2XWr2T-164" value="签到" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FHX8dY6lNucRGI2XWr2T-78" source="FHX8dY6lNucRGI2XWr2T-133" target="FHX8dY6lNucRGI2XWr2T-163">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="770" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="FHX8dY6lNucRGI2XWr2T-172" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FHX8dY6lNucRGI2XWr2T-78" source="FHX8dY6lNucRGI2XWr2T-117" target="FHX8dY6lNucRGI2XWr2T-171">
           <mxGeometry relative="1" as="geometry">
@@ -204,7 +209,7 @@
           <mxGeometry x="359" y="61" width="110" height="120" as="geometry" />
         </mxCell>
         <mxCell id="FHX8dY6lNucRGI2XWr2T-281" value="学习课程+1&lt;br&gt;。。。" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-300" y="910" width="100" height="100" as="geometry" />
+          <mxGeometry x="-310" y="940" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="FHX8dY6lNucRGI2XWr2T-304" value="完成课程+1&lt;br&gt;。。。" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-310" y="1540" width="100" height="100" as="geometry" />
