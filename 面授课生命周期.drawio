@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-27T18:09:23.318Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="MlLtCirKj6u9GYZqIX4A" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-28T01:32:42.625Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="bGbu_kxHWcEQfLJgb-LC" version="20.2.4" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="2737" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -183,6 +183,12 @@
           <mxGeometry x="-0.1982" y="6" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FHX8dY6lNucRGI2XWr2T-281" value="学习课程+1&lt;br&gt;。。。" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="910" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FHX8dY6lNucRGI2XWr2T-282" value="完成课程+1&lt;br&gt;。。。" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="1210" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
